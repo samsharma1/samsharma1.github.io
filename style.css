@@ -1,7 +1,9 @@
 body{
   font-family: Optima, Times New Roman;
   }
-
 p{
   color:black;
+}
+.name{
+  text align: center;
 }
