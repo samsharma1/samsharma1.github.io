@@ -19,6 +19,9 @@ p{
   text-align: left;
 }
 .education{
+  border: 1px solid black;
+  border-left-style:none;
+  border-right-style:none;
   text-align: left;
 }
 .work{
