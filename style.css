@@ -6,21 +6,21 @@ p{
   font-size: 200%;
 }
 .name{
-  text-align: center;
+  text-align: left;
 }
 .contact_info{
   border: 1px solid black;
-  text-align: center;
+  text-align: left;
 }
 .objective{
   border:1px solid black;
-  text-align: center;
+  text-align: left;
 }
 .education{
   text-align: left;
 }
 .work{
-  text-align: center;
+  text-align: left;
 }
 h3{
   margin:1px;
