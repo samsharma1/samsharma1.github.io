@@ -9,6 +9,9 @@ p{
   text-align: left;
 }
 .contact_info{
+  border-style:solid;
+  border-top:medium black;
+  
   
   text-align: left;
 }
