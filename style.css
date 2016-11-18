@@ -10,7 +10,7 @@ p{
 }
 .contact_info{
   border-style:solid;
-  border-top:medium black;
+  border-medium-width: .5x;
   
   
   text-align: left;
