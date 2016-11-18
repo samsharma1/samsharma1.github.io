@@ -9,7 +9,7 @@ p{
   text-align: left;
 }
 .contact_info{
-  border-style: 1px solid black;
+  border: 1px solid black;
   border-left-style:none;
   border-right-style:none;
   text-align: left;
