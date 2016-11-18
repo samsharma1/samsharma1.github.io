@@ -30,6 +30,13 @@ p{
   border-right-style:none;
   text-align: left;
 }
+.soft-skills{
+  border: 1px solid black;
+  border-left-style:none;
+  border-right-style:none;
+  text-align: left;
+}
+  
 h3{
   margin:1px;
 }
