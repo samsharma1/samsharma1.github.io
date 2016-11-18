@@ -10,10 +10,7 @@ p{
 }
 .contact_info{
   border-style: solid;
-  border-left-width: 0 px;
-  border-right-width: 0 px;
-  
-  
+  border-left-style:none;
   text-align: left;
 }
 .objective{
