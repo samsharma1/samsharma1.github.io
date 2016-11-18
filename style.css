@@ -9,8 +9,9 @@ p{
   text-align: left;
 }
 .contact_info{
-  border-style:solid;
-  border-medium-width: .5x;
+  border:1px solid black;
+  border-left-width: 0 px;
+  border-right-width: 0 px;
   
   
   text-align: left;
