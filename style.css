@@ -9,7 +9,7 @@ p{
   text-align: left;
 }
 .picture frame{
-  box-shadow: 3px 3px 3px black;
+  box-shadow: 3px 3px 3px 7px black;
 }
 .contact_info{
   border: 1px solid black;
