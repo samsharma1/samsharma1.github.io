@@ -9,7 +9,9 @@ p{
   text-align: left;
 }
 .picture-frame{
-  box-shadow: 3px 3px 3px 7px black;
+  
+   padding:1px;
+   border:1px solid black;
 }
 .contact_info{
   border: 1px solid black;
