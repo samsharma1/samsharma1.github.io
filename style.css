@@ -21,6 +21,8 @@ p{
 }
 .objective{
   border:1px solid black;
+  border-left-style:none;
+  border-right-style:none;
   text-align: left;
 }
 .education{
