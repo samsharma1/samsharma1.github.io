@@ -38,6 +38,7 @@ p{
   border: 1px solid black;
   border-left-style:none;
   border-right-style:none;
+  border-bottom-style:none;
   text-align: left;
 }
   
