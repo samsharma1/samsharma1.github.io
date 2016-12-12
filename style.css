@@ -6,11 +6,12 @@ p{
   font-size: 200%;
 }
 img{
+  border-radius: 8px
   border="2"
 }
 
 .picture-frame{
-  
+
    padding:1px;
    border:1px solid black;
 }
