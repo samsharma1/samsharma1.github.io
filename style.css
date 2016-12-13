@@ -5,6 +5,9 @@ p{
   color:black;
   font-size: 200%;
 }
+img{
+  border: 5px solid black;
+}
 
 .contact_info{
   border: 1px solid black;
